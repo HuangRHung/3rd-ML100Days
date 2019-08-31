@@ -24,4 +24,5 @@
 
 ### 參考
 李宏毅 老師 ML lecture: https://www.youtube.com/watch?v=CXgbekl66jc&feature=youtu.be
+
 label-encoder-vs-one-hot-encoder: https://reurl.cc/EK8Ong

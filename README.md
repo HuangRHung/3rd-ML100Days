@@ -26,3 +26,5 @@
 李宏毅 老師 ML lecture: https://www.youtube.com/watch?v=CXgbekl66jc&feature=youtu.be
 
 label-encoder-vs-one-hot-encoder: https://reurl.cc/EK8Ong
+
+k- fold cross validation:https://zhuanlan.zhihu.com/p/24825503

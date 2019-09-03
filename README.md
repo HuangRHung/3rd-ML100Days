@@ -8,6 +8,7 @@
 * Day005: 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)
 * Day006: EDA: 欄位的資料類型介紹及處理
 * Day007: 特徵類型
+* Day008: EDA資料分佈
 ### 三、資料科學特徵工程技術
 
 ### 四、機器學習基礎模型建立
@@ -28,3 +29,9 @@
 label-encoder-vs-one-hot-encoder: https://reurl.cc/EK8Ong
 
 k- fold cross validation:https://zhuanlan.zhihu.com/p/24825503
+
+資料視覺化：matplotlib、seaborn
+
+吳漢銘 老師 敘述統計與機率分布: http://www.hmwu.idv.tw/web/R_AI_M/AI-M1-hmwu_R_Stat&Prob.pdf
+
+pandas 中的繪圖函數: https://reurl.cc/qDDo1E

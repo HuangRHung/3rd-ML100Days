@@ -9,6 +9,7 @@
 * Day006: EDA: 欄位的資料類型介紹及處理
 * Day007: 特徵類型
 * Day008: EDA資料分佈
+* Day009: EDA: Outlier 及處理
 ### 三、資料科學特徵工程技術
 
 ### 四、機器學習基礎模型建立
@@ -35,3 +36,7 @@ k- fold cross validation:https://zhuanlan.zhihu.com/p/24825503
 吳漢銘 老師 敘述統計與機率分布: http://www.hmwu.idv.tw/web/R_AI_M/AI-M1-hmwu_R_Stat&Prob.pdf
 
 pandas 中的繪圖函數: https://reurl.cc/qDDo1E
+
+Ways to detect and remove the outliers: https://reurl.cc/nVV3r2
+
+How to Use Statistics to Identify Outliers in Data: https://reurl.cc/vnnz0l

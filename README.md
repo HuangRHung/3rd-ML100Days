@@ -10,6 +10,8 @@
 * Day007: 特徵類型
 * Day008: EDA資料分佈
 * Day009: EDA: Outlier 及處理
+* Day010: 數值型特徵 - 去除離群值
+* Day011: 常用的數值取代：中位數與分位數連續數值標準化
 ### 三、資料科學特徵工程技術
 
 ### 四、機器學習基礎模型建立
@@ -40,3 +42,5 @@ pandas 中的繪圖函數: https://reurl.cc/qDDo1E
 Ways to detect and remove the outliers: https://reurl.cc/nVV3r2
 
 How to Use Statistics to Identify Outliers in Data: https://reurl.cc/vnnz0l
+
+Is it a good practice to always scale/normalize data for machine learning? : https://reurl.cc/lLVWMv

@@ -42,3 +42,5 @@ pandas 中的繪圖函數: https://reurl.cc/qDDo1E
 Ways to detect and remove the outliers: https://reurl.cc/nVV3r2
 
 How to Use Statistics to Identify Outliers in Data: https://reurl.cc/vnnz0l
+
+Is it a good practice to always scale/normalize data for machine learning? : https://reurl.cc/lLVWMv

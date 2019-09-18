@@ -14,6 +14,8 @@
 * Day011: 常用的數值取代：中位數與分位數連續數值標準化
 * Day012: 數值型特徵-補缺失值與標準化
 * Day013: DataFrame operationData frame merge/常用的 DataFrame 操作
+* Day014: 程式實作 EDA: correlation/相關係數簡介
+* Day015: EDA from Correlation
 ### 三、資料科學特徵工程技術
 
 ### 四、機器學習基礎模型建立

@@ -12,6 +12,7 @@
 * Day009: EDA: Outlier 及處理
 * Day010: 數值型特徵 - 去除離群值
 * Day011: 常用的數值取代：中位數與分位數連續數值標準化
+* Day012: 數值型特徵-補缺失值與標準化
 ### 三、資料科學特徵工程技術
 
 ### 四、機器學習基礎模型建立
@@ -44,3 +45,11 @@ Ways to detect and remove the outliers: https://reurl.cc/nVV3r2
 How to Use Statistics to Identify Outliers in Data: https://reurl.cc/vnnz0l
 
 Is it a good practice to always scale/normalize data for machine learning? : https://reurl.cc/lLVWMv
+
+Python數據分析基礎 : 數據缺失 :https://juejin.im/post/5b5c4e6c6fb9a04f90791e0c
+
+數據標準化 / 歸⼀一化normalization : https://blog.csdn.net/pipisorry/article/details/52247379
+
+Pandas 官⽅ Cheat Sheet:https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+Pandas Cheat Sheet:https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf

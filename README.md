@@ -49,3 +49,7 @@ Is it a good practice to always scale/normalize data for machine learning? : htt
 Python數據分析基礎 : 數據缺失 :https://juejin.im/post/5b5c4e6c6fb9a04f90791e0c
 
 數據標準化 / 歸⼀一化normalization : https://blog.csdn.net/pipisorry/article/details/52247379
+
+Pandas 官⽅ Cheat Sheet:https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+Pandas Cheat Sheet:https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf

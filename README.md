@@ -17,6 +17,7 @@
 * Day014: 程式實作 EDA: correlation/相關係數簡介
 * Day015: EDA from Correlation
 * Day016: EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
+* Day017: EDA: 把連續型變數離散化
 ### 三、資料科學特徵工程技術
 
 ### 四、機器學習基礎模型建立

@@ -58,3 +58,5 @@ Python數據分析基礎 : 數據缺失 :https://juejin.im/post/5b5c4e6c6fb9a04f
 Pandas 官⽅ Cheat Sheet:https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 Pandas Cheat Sheet:https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
+
+連續特徵的離散化 : 在什什麼情況下可以獲得更更好的效果(知乎): https://www.zhihu.com/question/31989952

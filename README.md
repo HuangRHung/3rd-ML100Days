@@ -61,3 +61,9 @@ Pandas 官⽅ Cheat Sheet:https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 Pandas Cheat Sheet:https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
 
 連續特徵的離散化 : 在什什麼情況下可以獲得更更好的效果(知乎): https://www.zhihu.com/question/31989952
+
+Subplot matplotlib 官⽅範例: https://matplotlib.org/examples/pylab_examples/subplots_demo.html
+
+Python Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html
+
+另類子圖 Seaborn.jointplot 官⽅說明文件: https://seaborn.pydata.org/generated/seaborn.jointplot.html

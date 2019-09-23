@@ -20,6 +20,7 @@
 * Day017: EDA: 把連續型變數離散化
 * Day018: 程式實作 把連續型變數離散化
 * Day019: Subplots
+* Day020: Heatmap & Grid-plot
 ### 三、資料科學特徵工程技術
 
 ### 四、機器學習基礎模型建立
@@ -68,3 +69,9 @@ Subplot matplotlib 官⽅範例: https://matplotlib.org/examples/pylab_examples/
 Python Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html
 
 另類子圖 Seaborn.jointplot 官⽅說明文件: https://seaborn.pydata.org/generated/seaborn.jointplot.html
+
+Heatmap matplotlib 官方範例: https://is.gd/fuMgZ5
+
+進階 Heatmap Seaborn 官⽅範例: https://www.jianshu.com/p/363bbf6ec335
+
+Pairplot 的更多應用實例 (英⽂) towardsdatascience.com :https://is.gd/Hmw595

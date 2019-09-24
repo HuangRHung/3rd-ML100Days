@@ -23,6 +23,7 @@
 * Day020: Heatmap & Grid-plot
 * Day021: 模型初體驗 Logistic Regression
 ### 三、資料科學特徵工程技術
+* Day022: 特徵工程簡介
 
 ### 四、機器學習基礎模型建立
 

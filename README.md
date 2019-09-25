@@ -24,7 +24,7 @@
 * Day021: 模型初體驗 Logistic Regression
 ### 三、資料科學特徵工程技術
 * Day022: 特徵工程簡介
-
+* Day023: 數值型特徵 - 去除偏態
 ### 四、機器學習基礎模型建立
 
 ### 五、機器學習調整參數
@@ -77,3 +77,5 @@ Heatmap matplotlib 官方範例: https://is.gd/fuMgZ5
 進階 Heatmap Seaborn 官⽅範例: https://www.jianshu.com/p/363bbf6ec335
 
 Pairplot 的更多應用實例 (英⽂) towardsdatascience.com :https://is.gd/Hmw595
+
+機器學習數學|偏度與峰度及其 python 實現: https://blog.csdn.net/u013555719/article/details/78530879

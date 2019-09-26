@@ -25,6 +25,7 @@
 ### 三、資料科學特徵工程技術
 * Day022: 特徵工程簡介
 * Day023: 數值型特徵 - 去除偏態
+* Day024: 類別型特徵 - 基礎處理
 ### 四、機器學習基礎模型建立
 
 ### 五、機器學習調整參數
@@ -79,3 +80,5 @@ Heatmap matplotlib 官方範例: https://is.gd/fuMgZ5
 Pairplot 的更多應用實例 (英⽂) towardsdatascience.com :https://is.gd/Hmw595
 
 機器學習數學|偏度與峰度及其 python 實現: https://blog.csdn.net/u013555719/article/details/78530879
+
+數據預處理理:獨熱編碼(One-Hot Encoding) 和 LabelEncoder標籤編碼: https://is.gd/F6eKnC

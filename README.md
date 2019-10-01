@@ -93,3 +93,6 @@ Feature hashing: https://blog.csdn.net/laolu1573/article/details/79410187
 
 PYTHON-基礎-時間⽇期處理⼩結: http://www.wklken.me/posts/2015/03/03/python-base-datetime.html
 
+特徵組合&特徵交叉 (Feature Crosses): https://segmentfault.com/a/1190000014799038
+
+簡單⾼效的組合特徵自動挖掘框架: https://read01.com/zh-tw/jj8em6E.html#.XZMIcC33XOR

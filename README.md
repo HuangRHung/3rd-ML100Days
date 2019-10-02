@@ -30,6 +30,7 @@
 * Day026: 類別型特徵 - 其他進階處理
 * Day027: 時間型特徵
 * Day028: 特徵組合 - 數值與數值組合
+* Day029: 特徵組合 - 類別與數值組合
 ### 四、機器學習基礎模型建立
 
 ### 五、機器學習調整參數
@@ -96,3 +97,5 @@ PYTHON-基礎-時間⽇期處理⼩結: http://www.wklken.me/posts/2015/03/03/py
 特徵組合&特徵交叉 (Feature Crosses): https://segmentfault.com/a/1190000014799038
 
 簡單⾼效的組合特徵自動挖掘框架: https://read01.com/zh-tw/jj8em6E.html#.XZMIcC33XOR
+
+利利⽤用 Python 數據分析之數據聚合與分組: https://zhuanlan.zhihu.com/p/27590154

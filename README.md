@@ -32,6 +32,7 @@
 * Day028: 特徵組合 - 數值與數值組合
 * Day029: 特徵組合 - 類別與數值組合
 * Day030: 特徵選擇
+* Day031: 特徵評估
 ### 四、機器學習基礎模型建立
 
 ### 五、機器學習調整參數
@@ -102,3 +103,7 @@ PYTHON-基礎-時間⽇期處理⼩結: http://www.wklken.me/posts/2015/03/03/py
 利用 Python 數據分析之數據聚合與分組: https://zhuanlan.zhihu.com/p/27590154
 
 特徵選擇: https://zhuanlan.zhihu.com/p/32749489
+
+機器學習 - 特徵選擇算法流程、分類、優化與發 展綜述: https://juejin.im/post/5a1f7903f265da431c70144c
+
+Permutation Importance: https://reurl.cc/4g1jrX

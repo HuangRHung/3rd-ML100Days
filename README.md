@@ -33,6 +33,7 @@
 * Day029: 特徵組合 - 類別與數值組合
 * Day030: 特徵選擇
 * Day031: 特徵評估
+* Day032: 分類型特徵優化 - 葉編碼
 ### 四、機器學習基礎模型建立
 
 ### 五、機器學習調整參數
@@ -107,3 +108,9 @@ PYTHON-基礎-時間⽇期處理⼩結: http://www.wklken.me/posts/2015/03/03/py
 機器學習 - 特徵選擇算法流程、分類、優化與發 展綜述: https://juejin.im/post/5a1f7903f265da431c70144c
 
 Permutation Importance: https://reurl.cc/4g1jrX
+
+Feature transformations with ensembles of trees: https://reurl.cc/ObAQZr
+
+CTR 預估[⼗一]: Algorithm-GBDT Encoder: https://zhuanlan.zhihu.com/p/31734283
+
+三分鐘了解推薦系統中的分解機方法: https://kknews.cc/code/62k4rml.html

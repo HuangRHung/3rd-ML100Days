@@ -35,7 +35,7 @@
 * Day031: 特徵評估
 * Day032: 分類型特徵優化 - 葉編碼
 ### 四、機器學習基礎模型建立
-
+* Day033: 機器如何學習?
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習
@@ -114,3 +114,5 @@ Feature transformations with ensembles of trees: https://reurl.cc/ObAQZr
 CTR 預估[⼗一]: Algorithm-GBDT Encoder: https://zhuanlan.zhihu.com/p/31734283
 
 三分鐘了解推薦系統中的分解機方法: https://kknews.cc/code/62k4rml.html
+
+理解機器學習中很重要的 Bias/Variance trade-off 的意義為何: http://bangqu.com/yjB839.html

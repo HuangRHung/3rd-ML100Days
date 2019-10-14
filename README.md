@@ -38,6 +38,7 @@
 * Day033: 機器如何學習?
 * Day034: 訓練/測試集切分
 * Day035: regression vs. classification
+* Day036: 評估指標選定/evaluation metrics
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習
@@ -120,3 +121,7 @@ CTR 預估[⼗一]: Algorithm-GBDT Encoder: https://zhuanlan.zhihu.com/p/3173428
 理解機器學習中很重要的 Bias/Variance trade-off 的意義為何: http://bangqu.com/yjB839.html
 
 了解回歸與分類的差異在哪裡? http://zylix666.blogspot.com/2016/06/supervised-classificationregression.html
+
+深入了解超常用的指標 AUC: https://www.dataschool.io/roc-curves-and-auc-explained/
+
+學習更多評估指標，來衡量機器學習模型的準確度: https://zhuanlan.zhihu.com/p/30721429

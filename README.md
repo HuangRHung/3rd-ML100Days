@@ -37,6 +37,7 @@
 ### 四、機器學習基礎模型建立
 * Day033: 機器如何學習?
 * Day034: 訓練/測試集切分
+* Day035: regression vs. classification
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習
@@ -117,3 +118,5 @@ CTR 預估[⼗一]: Algorithm-GBDT Encoder: https://zhuanlan.zhihu.com/p/3173428
 三分鐘了解推薦系統中的分解機方法: https://kknews.cc/code/62k4rml.html
 
 理解機器學習中很重要的 Bias/Variance trade-off 的意義為何: http://bangqu.com/yjB839.html
+
+了解回歸與分類的差異在哪裡? http://zylix666.blogspot.com/2016/06/supervised-classificationregression.html

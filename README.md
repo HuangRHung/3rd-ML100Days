@@ -39,6 +39,7 @@
 * Day034: 訓練/測試集切分
 * Day035: regression vs. classification
 * Day036: 評估指標選定/evaluation metrics
+* Day037: regression model 介紹 - 線性迴歸/羅吉斯回歸
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習
@@ -125,3 +126,7 @@ CTR 預估[⼗一]: Algorithm-GBDT Encoder: https://zhuanlan.zhihu.com/p/3173428
 深入了解超常用的指標 AUC: https://www.dataschool.io/roc-curves-and-auc-explained/
 
 學習更多評估指標，來衡量機器學習模型的準確度: https://zhuanlan.zhihu.com/p/30721429
+
+Linear Regression教學: https://zh-tw.coursera.org/lecture/machine-learning/model-representation-db3jS
+
+Logistic regression 數學原理: https://blog.csdn.net/qq_23269761/article/details/81778585

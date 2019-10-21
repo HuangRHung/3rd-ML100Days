@@ -42,6 +42,7 @@
 * Day037: regression model 介紹 - 線性迴歸/羅吉斯回歸
 * Day038: regression model 程式碼撰寫
 * Day039: regression model 介紹 - LASSO 回歸/ Ridge 回歸
+* Day040: regression model 程式碼撰寫
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習

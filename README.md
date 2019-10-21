@@ -41,6 +41,7 @@
 * Day036: 評估指標選定/evaluation metrics
 * Day037: regression model 介紹 - 線性迴歸/羅吉斯回歸
 * Day038: regression model 程式碼撰寫
+* Day039: regression model 介紹 - LASSO 回歸/ Ridge 回歸
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習
@@ -131,3 +132,7 @@ CTR 預估[⼗一]: Algorithm-GBDT Encoder: https://zhuanlan.zhihu.com/p/3173428
 Linear Regression教學: https://zh-tw.coursera.org/lecture/machine-learning/model-representation-db3jS
 
 Logistic regression 數學原理: https://blog.csdn.net/qq_23269761/article/details/81778585
+
+脊回歸 (Ridge Regression): https://blog.csdn.net/daunxx/article/details/51578787
+
+Linear, Ridge, Lasso Regression 本質區別: https://www.zhihu.com/question/38121173

@@ -43,6 +43,7 @@
 * Day038: regression model 程式碼撰寫
 * Day039: regression model 介紹 - LASSO 回歸/ Ridge 回歸
 * Day040: regression model 程式碼撰寫
+* Day041: tree based model - 決策樹 (Decision Tree) 模型介紹
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習
@@ -137,3 +138,7 @@ Logistic regression 數學原理: https://blog.csdn.net/qq_23269761/article/deta
 脊回歸 (Ridge Regression): https://blog.csdn.net/daunxx/article/details/51578787
 
 Linear, Ridge, Lasso Regression 本質區別: https://www.zhihu.com/question/38121173
+
+決策樹 (Decision Tree) - 中文: https://reurl.cc/b6lVQM
+
+how decision tree works - 英文: https://reurl.cc/ObjMlX

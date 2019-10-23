@@ -44,6 +44,7 @@
 * Day039: regression model 介紹 - LASSO 回歸/ Ridge 回歸
 * Day040: regression model 程式碼撰寫
 * Day041: tree based model - 決策樹 (Decision Tree) 模型介紹
+* Day042: tree based model - 決策樹程式碼撰寫
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習
@@ -142,3 +143,5 @@ Linear, Ridge, Lasso Regression 本質區別: https://www.zhihu.com/question/381
 決策樹 (Decision Tree) - 中文: https://reurl.cc/b6lVQM
 
 how decision tree works - 英文: https://reurl.cc/ObjMlX
+
+Creating and Visualizing Decision Trees with Python: https://reurl.cc/8lNY5d

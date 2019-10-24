@@ -45,6 +45,7 @@
 * Day040: regression model 程式碼撰寫
 * Day041: tree based model - 決策樹 (Decision Tree) 模型介紹
 * Day042: tree based model - 決策樹程式碼撰寫
+* Day043: tree based model - 隨機森林 (Random Forest) 介紹
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習
@@ -145,3 +146,7 @@ Linear, Ridge, Lasso Regression 本質區別: https://www.zhihu.com/question/381
 how decision tree works - 英文: https://reurl.cc/ObjMlX
 
 Creating and Visualizing Decision Trees with Python: https://reurl.cc/8lNY5d
+
+隨機森林 (random forest) - 中文: http://hhtucode.blogspot.com/2013/06/ml-random-forest.html
+
+how random forest works - 英文: https://medium.com/@Synced/how-random-forest-algorithm-works-in-machine-learning-3c0fe15b6674

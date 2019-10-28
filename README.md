@@ -47,6 +47,7 @@
 * Day042: tree based model - 決策樹程式碼撰寫
 * Day043: tree based model - 隨機森林 (Random Forest) 介紹
 * Day044: tree based model - 隨機森林程式碼撰寫
+* Day045: tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習

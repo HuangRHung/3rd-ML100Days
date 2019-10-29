@@ -152,7 +152,7 @@ Creating and Visualizing Decision Trees with Python: https://reurl.cc/8lNY5d
 
 隨機森林 (random forest) - 中文: http://hhtucode.blogspot.com/2013/06/ml-random-forest.html
 
-how random forest works - 英文: https://medium.com/@Synced/how-random-forest-algorithm-works-in-machine-learning-3c0fe15b6674
+how random forest works - 英文: https://reurl.cc/YlEWml
 
 完整調參數攻略-如何使⽤ Python 調整梯度提升機的超參數: https://reurl.cc/k5O0pb
 

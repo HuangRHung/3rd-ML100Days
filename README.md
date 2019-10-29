@@ -48,6 +48,7 @@
 * Day043: tree based model - 隨機森林 (Random Forest) 介紹
 * Day044: tree based model - 隨機森林程式碼撰寫
 * Day045: tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
+* Day046: tree based model - 梯度提升機程式碼撰寫
 ### 五、機器學習調整參數
 
 ### 六、非監督式機器學習
@@ -152,3 +153,5 @@ Creating and Visualizing Decision Trees with Python: https://reurl.cc/8lNY5d
 隨機森林 (random forest) - 中文: http://hhtucode.blogspot.com/2013/06/ml-random-forest.html
 
 how random forest works - 英文: https://medium.com/@Synced/how-random-forest-algorithm-works-in-machine-learning-3c0fe15b6674
+
+完整調參參數攻略略-如何使⽤用 Python 調整梯度提升機的超參參數: https://reurl.cc/k5O0pb

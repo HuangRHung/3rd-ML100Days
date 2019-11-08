@@ -52,6 +52,7 @@
 ### 五、機器學習調整參數
 * Day047: 超參數調整與優化
 * Day048：Kaggle 競賽平台介紹
+* Day049: 集成方法:混合泛化(Blending)
 ### 六、非監督式機器學習
 
 ### 七、深度學習理論與實作
@@ -160,3 +161,7 @@ how random forest works - 英文: https://reurl.cc/YlEWml
 劍橋實驗室教你如何調參數: https://reurl.cc/xDagKV
 
 教你使⽤ Python 調整隨機森林參數: https://reurl.cc/XXGe2R
+
+機器學習技法 Lecture 7: Blending and Bagging: https://reurl.cc/mdRmr7
+
+Superblend: https://www.kaggle.com/tunguz/superblend

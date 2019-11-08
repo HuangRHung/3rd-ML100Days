@@ -53,6 +53,7 @@
 * Day047: 超參數調整與優化
 * Day048：Kaggle 競賽平台介紹
 * Day049: 集成方法:混合泛化(Blending)
+* Day050: 集成方法:堆疊泛化(Stacking)
 ### 六、非監督式機器學習
 
 ### 七、深度學習理論與實作
@@ -165,3 +166,7 @@ how random forest works - 英文: https://reurl.cc/YlEWml
 機器學習技法 Lecture 7: Blending and Bagging: https://reurl.cc/mdRmr7
 
 Superblend: https://www.kaggle.com/tunguz/superblend
+
+StackingCVClassifier: https://reurl.cc/W4AjKk
+
+如何在 Kaggle 首戰中進入前 10%: https://reurl.cc/pD97e4

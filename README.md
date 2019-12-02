@@ -60,6 +60,7 @@
 * Day054: clustering 1 非監督式機器學習簡介
 * Day055: clustering 2 聚類算法
 * Day056: K-mean 觀察  使用輪廓分析
+* Day057: clustering 3 階層分群算法
 ### 七、深度學習理論與實作
 
 ### 八、初探深度學習使用Keras
@@ -174,3 +175,4 @@ Superblend: https://www.kaggle.com/tunguz/superblend
 StackingCVClassifier: https://reurl.cc/W4AjKk
 
 如何在 Kaggle 首戰中進入前 10%: https://reurl.cc/pD97e4
+Hierarchical Clustering: https://www.youtube.com/watch?v=Tuuc9Y06tAc

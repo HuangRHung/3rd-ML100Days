@@ -61,6 +61,7 @@
 * Day055: clustering 2 聚類算法
 * Day056: K-mean 觀察  使用輪廓分析
 * Day057: clustering 3 階層分群算法
+* Day058: 階層分群法 觀察 : 使用 2D 樣版資料集
 ### 七、深度學習理論與實作
 
 ### 八、初探深度學習使用Keras

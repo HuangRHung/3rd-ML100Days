@@ -63,6 +63,7 @@
 * Day057: clustering 3 階層分群算法
 * Day058: 階層分群法 觀察 : 使用 2D 樣版資料集
 * Day059: dimension reduction 1 降維方法-主成份分析
+* Day060: PCA 觀察 : 使用手寫辨識資料集
 ### 七、深度學習理論與實作
 
 ### 八、初探深度學習使用Keras

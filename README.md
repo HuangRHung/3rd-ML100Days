@@ -64,6 +64,7 @@
 * Day058: 階層分群法 觀察 : 使用 2D 樣版資料集
 * Day059: dimension reduction 1 降維方法-主成份分析
 * Day060: PCA 觀察 : 使用手寫辨識資料集
+* Day061: dimension reduction 2 降維方法-T-SNE
 ### 七、深度學習理論與實作
 
 ### 八、初探深度學習使用Keras
@@ -180,3 +181,5 @@ StackingCVClassifier: https://reurl.cc/W4AjKk
 如何在 Kaggle 首戰中進入前 10%: https://reurl.cc/pD97e4
 
 Hierarchical Clustering: https://www.youtube.com/watch?v=Tuuc9Y06tAc
+
+Visualizing Data Using t-SNE: https://reurl.cc/319eaV

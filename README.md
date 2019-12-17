@@ -65,6 +65,7 @@
 * Day059: dimension reduction 1 降維方法-主成份分析
 * Day060: PCA 觀察 : 使用手寫辨識資料集
 * Day061: dimension reduction 2 降維方法-T-SNE
+* Day062: t-sne 觀察 分群與流形還原
 ### 七、深度學習理論與實作
 
 ### 八、初探深度學習使用Keras

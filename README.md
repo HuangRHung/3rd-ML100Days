@@ -64,13 +64,24 @@
 * Day058: 階層分群法 觀察 : 使用 2D 樣版資料集
 * Day059: dimension reduction 1 降維方法-主成份分析
 * Day060: PCA 觀察 : 使用手寫辨識資料集
-* Day061: dimension reduction 2 降維方法-T-SNE
+* Day061: dimension reduction 2 降維方法-T-SNE 
 * Day062: t-sne 觀察 分群與流形還原
 ### 七、深度學習理論與實作
 * Day063: 神經網路介紹
 * Day064: 深度學習體驗  模型調整與學習曲線
 * Day065: 深度學習體驗  啟動函數與正規化
 ### 八、初探深度學習使用Keras
+* Day066: Keras 安裝與介紹
+* Day067: Keras Dataset
+* Day068: Keras Sequential API
+* Day069: Keras Module API
+* Day070: Multi-layer Perception多層感知
+* Day071: 損失函數
+* Day072: 啟動函數
+* Day073: 梯度下降Gradient Descent
+* Day074: Gradient Descent 數學原理
+* Day075: BackPropagation
+* Day076: 優化器optimizers
 
 ### 九、深度學習應用卷積神經網路
 

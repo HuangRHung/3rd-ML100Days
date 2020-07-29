@@ -197,3 +197,5 @@ StackingCVClassifier: https://reurl.cc/W4AjKk
 Hierarchical Clustering: https://www.youtube.com/watch?v=Tuuc9Y06tAc
 
 Visualizing Data Using t-SNE: https://reurl.cc/319eaV
+
+Keras documentation: https://keras.io/about/
